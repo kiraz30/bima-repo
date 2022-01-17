@@ -1,7 +1,9 @@
 Belajar web:
-- Codeigniter
-- Laravel 8
+- PHP Freamwwork
+  ^ Codeigniter
+  ^ Laravel 8
 - Release Website pribadi
 - mendalami php dari codepolitan
 - mastering SQL
 - mastering CSS
+- Mastering Javascript

@@ -1,0 +1,2 @@
+# bima-repo
+repository bima

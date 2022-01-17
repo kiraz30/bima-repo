@@ -3,3 +3,4 @@ Belajar web:
 - Laravel 8
 - Release Website pribadi
 - mendalami php dari codepolitan
+- mastering SQL

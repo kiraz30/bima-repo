@@ -5,4 +5,5 @@ Belajar web:
 - Release Website pribadi
 - mendalami php dari codepolitan
 - mastering SQL
-- mastering javascript
+- mastering CSS
+- Mastering Javascript

@@ -4,3 +4,4 @@ Belajar web:
 - Release Website pribadi
 - mendalami php dari codepolitan
 - mastering SQL
+- mastering CSS
